@@ -1,8 +1,8 @@
-# GutIQ Founder Pitch
+# GUTIQ
 
 A one-page pitch by Alisha Chaudhari for the **Chief of Staff – Growth & Scale** role at GutIQ.
 
-**Live page:** https://alisha-19.github.io/gutiq-founder-pitch/
+**Live page:** https://alisha-19.github.io/GUTIQ/
 
 ## What's inside
 - **How I understood the business:** GutIQ's three products (free quiz, Plus/CORE app, PURO program) and a six-dimension PMF narrative with interactive mind maps.
